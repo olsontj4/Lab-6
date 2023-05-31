@@ -1,0 +1,15 @@
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 6\BlackJackLab6\obj\Debug\net6.0\BlackJackLab6.csproj.AssemblyReference.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 6\BlackJackLab6\obj\Debug\net6.0\BlackJackLab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 6\BlackJackLab6\obj\Debug\net6.0\BlackJackLab6.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 6\BlackJackLab6\obj\Debug\net6.0\BlackJackLab6.AssemblyInfo.cs
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 6\BlackJackLab6\obj\Debug\net6.0\BlackJackLab6.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 6\BlackJackLab6\bin\Debug\net6.0\BlackJackLab6.exe
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 6\BlackJackLab6\bin\Debug\net6.0\BlackJackLab6.deps.json
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 6\BlackJackLab6\bin\Debug\net6.0\BlackJackLab6.runtimeconfig.json
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 6\BlackJackLab6\bin\Debug\net6.0\BlackJackLab6.dll
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 6\BlackJackLab6\bin\Debug\net6.0\BlackJackLab6.pdb
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 6\BlackJackLab6\obj\Debug\net6.0\BlackJackLab6.dll
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 6\BlackJackLab6\obj\Debug\net6.0\refint\BlackJackLab6.dll
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 6\BlackJackLab6\obj\Debug\net6.0\BlackJackLab6.pdb
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 6\BlackJackLab6\obj\Debug\net6.0\BlackJackLab6.genruntimeconfig.cache
+C:\Users\thoma\Desktop\Homework (Yes, really.)\Computer Science 2\Lab 6\BlackJackLab6\obj\Debug\net6.0\ref\BlackJackLab6.dll
