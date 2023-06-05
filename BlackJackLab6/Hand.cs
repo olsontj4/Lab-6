@@ -75,14 +75,9 @@ namespace BlackJackLab6
             }
             return -1;
         }
-        /*public override string ToString()
+        public override string ToString()
         {
-            string output = "";
-            // go through every card in the deck
-            foreach (Card c in cards)
-                // ask the card to convert itself to a string
-                output += (c.ToString() + "\n");
-            return output;
-        }*/
+            return base.ToString();
+        }
     }
 }
